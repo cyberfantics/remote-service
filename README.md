@@ -27,7 +27,7 @@ The Remote Service Utility is a Python script designed by Syed Mansoor ul Hassan
 ```
 2. Run:
 ```bash
-    python remote_service.py <remote_computer_name> <executable_script_name>
+    python remoteService.py <remote_computer_name> <executable_script_name>
 ```
 
 **Replace <remote_computer_name> with the name or IP address of the remote computer and <executable_script_name> with the name of the Python script to be executed remotely.**
